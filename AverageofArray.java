@@ -5,7 +5,7 @@ public class AverageofArray {
         for (int i = 0; i < numbers.length; i++) {
             sum += numbers[i];
         }
-        int avg = (sum/ numbers.length);8
+        int avg = (sum/ numbers.length);
         System.out.println(avg);
     }
 }
