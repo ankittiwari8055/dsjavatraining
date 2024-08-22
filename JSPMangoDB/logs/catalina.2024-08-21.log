@@ -1,0 +1,41 @@
+21-Aug-2024 15:39:34.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Aug-2024 15:39:34.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Aug-2024 15:39:34.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Aug-2024 15:39:34.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Aug-2024 15:39:34.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Aug-2024 15:39:34.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Aug-2024 15:39:34.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-22
+21-Aug-2024 15:39:34.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           22.0.2+9-70
+21-Aug-2024 15:39:34.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Aug-2024 15:39:34.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\hp\IdeaProjects\JSPMangoDB
+21-Aug-2024 15:39:34.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\hp\Downloads\apache-tomcat-10.1.28-windows-x64\apache-tomcat-10.1.28
+21-Aug-2024 15:39:34.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Aug-2024 15:39:34.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Aug-2024 15:39:34.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Aug-2024 15:39:34.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Aug-2024 15:39:34.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Aug-2024 15:39:34.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\hp\Downloads\apache-tomcat-10.1.28-windows-x64\apache-tomcat-10.1.28
+21-Aug-2024 15:39:34.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\hp\IdeaProjects\JSPMangoDB
+21-Aug-2024 15:39:34.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\hp\IdeaProjects\JSPMangoDB\temp
+21-Aug-2024 15:39:34.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\hp\IdeaProjects\JSPMangoDB\conf\logging.properties
+21-Aug-2024 15:39:34.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Aug-2024 15:39:34.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=6322:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+21-Aug-2024 15:39:34.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Aug-2024 15:39:34.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Aug-2024 15:39:34.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Aug-2024 15:39:34.426 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Aug-2024 15:39:34.441 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Aug-2024 15:39:34.812 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Aug-2024 15:39:34.832 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [661] milliseconds
+21-Aug-2024 15:39:34.884 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Aug-2024 15:39:34.885 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Aug-2024 15:39:34.895 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\hp\IdeaProjects\JSPMangoDB\conf\Catalina\localhost\JSPMangoDB.xml]
+21-Aug-2024 15:39:35.551 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Aug-2024 15:39:35.603 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\hp\IdeaProjects\JSPMangoDB\conf\Catalina\localhost\JSPMangoDB.xml] has finished in [706] ms
+21-Aug-2024 15:39:35.607 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Aug-2024 15:39:35.631 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [798] milliseconds
+21-Aug-2024 15:39:45.838 INFO [http-nio-8080-exec-6] com.mongodb.diagnostics.logging.JULLogger.log Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+21-Aug-2024 15:39:46.093 INFO [http-nio-8080-exec-6] com.mongodb.diagnostics.logging.JULLogger.log Cluster description not yet available. Waiting for 30000 ms before timing out
+21-Aug-2024 15:39:46.125 INFO [cluster-ClusterId{value='66c5bce94300cd13d134d119', description='null'}-localhost:27017] com.mongodb.diagnostics.logging.JULLogger.log Opened connection [connectionId{localValue:1, serverValue:50}] to localhost:27017
+21-Aug-2024 15:39:46.141 INFO [cluster-ClusterId{value='66c5bce94300cd13d134d119', description='null'}-localhost:27017] com.mongodb.diagnostics.logging.JULLogger.log Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[7, 0, 12]}, minWireVersion=0, maxWireVersion=21, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=9543800}
+21-Aug-2024 15:39:46.189 INFO [http-nio-8080-exec-6] com.mongodb.diagnostics.logging.JULLogger.log Opened connection [connectionId{localValue:2, serverValue:51}] to localhost:27017

@@ -58,7 +58,7 @@ public class currencyconvertor {
                         = Double.parseDouble(t1.getText());
 
                 // Converting rupees to dollars
-                double d1 = (d / 65.25);
+                double d1 = (d / 83.25);
 
                 // Getting the string value of the
                 // calculated value
@@ -77,7 +77,7 @@ public class currencyconvertor {
                         = Double.parseDouble(t2.getText());
 
                 // converting Dollars to rupees
-                double d3 = (d2 * 65.25);
+                double d3 = (d2 * 83.25);
 
                 // Getting the string value of the
                 // calculated value
